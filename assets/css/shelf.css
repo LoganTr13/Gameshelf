@@ -1,0 +1,22 @@
+.shelf {
+
+    background: var(--color-shelf);
+    padding: var(--spacing-lg);
+    border-radius: var(--border-radius-md);
+    box-shadow:
+        inset 0 -10px 0 var(--color-shelf-shadow);
+
+}
+
+.shelf-title {
+    margin-bottom: var(--spacing-lg);
+}
+
+.shelf-games {
+
+    display: flex;
+    align-items: end;
+    gap: var(--spacing-xs);
+    min-height: 180px;
+
+}

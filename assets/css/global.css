@@ -1,0 +1,14 @@
+body {
+    background: var(--color-background);
+    color: var(--color-text-primary);
+
+    font-family: Arial, sans-serif;
+
+    padding: var(--spacing-xl);
+}
+
+.library-container {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-xl);
+}
