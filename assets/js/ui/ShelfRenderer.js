@@ -18,7 +18,6 @@ export class ShelfRenderer {
             const gameCard = GameCardRenderer.create(game);
             gamesContainer.appendChild(gameCard);
         });
-        console.log(shelfElement);
         container.appendChild(shelfElement);
     }
 

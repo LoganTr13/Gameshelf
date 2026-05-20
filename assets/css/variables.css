@@ -27,10 +27,9 @@
     --transition-medium: 0.3s ease;
 
     /* Capas de jogo */
-    --game-spine-width: 42px;
-    --game-spine-height: 160px;
+    --game-spine-width: .9em;
+    --game-spine-height: 14em;
 
     --game-cover-width: auto;
-    --game-cover-height: 320px;
 
 }

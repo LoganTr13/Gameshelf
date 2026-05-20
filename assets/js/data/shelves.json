@@ -8,6 +8,18 @@
                     "name": "Ghost Rider (PS2)",
                     "spineImage": "./assets/images/games/ghostrider/spine.png",
                     "coverImage": "./assets/images/games/ghostrider/cover.png"
+                },
+                {
+                    "id": 1,
+                    "name": "Ghost Rider (PS2)",
+                    "spineImage": "./assets/images/games/ghostrider/spine.png",
+                    "coverImage": "./assets/images/games/ghostrider/cover.png"
+                },
+                {
+                    "id": 1,
+                    "name": "Ghost Rider (PS2)",
+                    "spineImage": "./assets/images/games/ghostrider/spine.png",
+                    "coverImage": "./assets/images/games/ghostrider/cover.png"
                 }
             ]
         },
